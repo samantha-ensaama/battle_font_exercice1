@@ -1,0 +1,23 @@
+.facade{
+  font-family: 'FacadeGX';/*on réutilise le nom choisi au sein du fichier font_liste.css*/
+  font-variation-settings: "wght" 400, "ctst" 300;}
+
+
+
+.sixtyhour{
+  font-family: 'sixtyhour';
+  font-variation-settings: "SCAN" 100, "BLED" 200;}
+
+h2{
+  font-size: 300px;
+color: blue;
+}
+
+h4{font-size: 150px;
+color: black;
+transform:rotate(-10deg) ;
+opacity: 0.5;}
+  
+  
+  
+  
